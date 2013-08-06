@@ -2,7 +2,8 @@ TODO
 ======
 
 # Short-term
- ** idea ** | ** status **
-loans | not start
+ **idea** | **status**
+ --- | --- 
+loans | not started
 
 
