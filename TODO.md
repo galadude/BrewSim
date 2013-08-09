@@ -1,12 +1,15 @@
 TODO
 ======
+Ignore the game.py file. I have completely change the structure of the game. 
+I havent deleted it yet, because I might need pieces of the code.
+
 # Right now
  **idea** | **status**
  --- | --- 
-use dirs were appropriate | not started
-parse using verb/noun/quantity system | not started 
+use dicts were appropriate | done
+parse using verb/noun/quantity system | started 
 
-# Short-term
+# long-term
  **idea** | **status**
  --- | --- 
 loans | not started
